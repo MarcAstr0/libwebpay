@@ -6,5 +6,5 @@ No es más que el código obtenido desde el [sitio de Transbank](http://www.tran
 
 
 ```bash
-pip install git+https://github.com/MarcAstr0/libwebpay.git@master
+pip install git+https://github.com/MarcAstr0/libwebpay.git@master --process-dependency-links
 ```
