@@ -1,0 +1,2 @@
+git+https://github.com/MarcAstr0/suds.git#egg=suds-0.4-SNAPSHOT
+git+https://github.com/MarcAstr0/py-wsse.git#egg=py-wsse-0.1-SNAPSHOT

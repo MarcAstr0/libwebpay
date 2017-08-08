@@ -1,0 +1,9 @@
+setup.cfg
+setup.py
+libwebpay/__init__.py
+libwebpay.egg-info/PKG-INFO
+libwebpay.egg-info/SOURCES.txt
+libwebpay.egg-info/dependency_links.txt
+libwebpay.egg-info/entry_points.txt
+libwebpay.egg-info/not-zip-safe
+libwebpay.egg-info/top_level.txt
